@@ -39,6 +39,10 @@ a{
 	text-decoration: none;
 	color: hsl(236, 13%, 42%);
 }
+a:hover{
+	color: hsl(5, 85%, 63%);
+	font-weight: bold;
+}
 ul{
 	display: flex;
 	flex-direction: row;
@@ -239,4 +243,6 @@ button:hover{
 	.bottom{
 		height: 100px;
 	}
+	/*js part ---------------------*/
+	
 } 
